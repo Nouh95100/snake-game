@@ -314,6 +314,7 @@ var Snake = (function () {
 
 })();
 
-Snake.start(8);
+Snake.start(6);
 Snake.setup.keyboard(true);
+
 Snake.setup.fixedTail(false);
